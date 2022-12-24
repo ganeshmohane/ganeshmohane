@@ -1,3 +1,26 @@
-Ganesh is a second year engineering student pursuing BE in Data Science at the University of Mumbai. 
-he is proficient in Python and Java programming. he has experience of Microsoft Power BI as well as data analysis using Python.
-On other side, ganesh is kind person who loves playing piano.
+<h1>Hi there, it's Ganesh 😊</h1>
+
+
+Data Enthusiast I Front-end Developer I Data Analyst
+
+  <b>To utilize my knowledge and ideas in this field of Data Science, Web Developement and embedded system tomard the smooth functioning of organization, I realised that, satisfaction is a book of achivements, which holds the learning experince records of doing trying, twidding, getting failed, trying again and finally succeeding in the project.</b>
+
+<h5>FOLLOW ME ON :</h5>
+     <b><a href="https://www.linkedin.com/in/ganeshmohane/">Linkedin</a>
+     <br>
+     <a href="https://www.kaggle.com/ganeshmohane">kaggle</a>
+     <br>
+     <a href="https://medium.com/@ganeshmohane">My Blogs</a>
+     <br>
+     <a href="https://ganeshhmohane.blogspot.com/">My Website</a>
+     <br>
+     <a href="https://twitter.com/ganeshmohhane">Twitter</a>
+     <br>
+     <a href="https://www.youtube.com/@GaneshMohane">My Youtube Channel</a>
+     </b>
+      
+     
+     
+     
+
+     
