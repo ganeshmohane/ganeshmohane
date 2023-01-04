@@ -12,8 +12,6 @@ Data Enthusiast I Front-end Developer I Data Analyst
      <br>
      <a href="https://medium.com/@ganeshmohane">My Blogs</a>
      <br>
-     <a href="[https://ganeshhmohane.blogspot.com/](https://sites.google.com/view/ganeshmohane/home]">My Website</a>
-     <br>
      <a href="https://twitter.com/ganeshmohhane">Twitter</a>
      <br>
      <a href="https://www.youtube.com/@GaneshMohane">My Youtube Channel</a>
